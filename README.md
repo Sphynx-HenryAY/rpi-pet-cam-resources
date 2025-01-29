@@ -14,7 +14,10 @@ https://blog.cloudflare.com/building-a-pet-cam-using-a-raspberry-pi-cloudflare-t
       - sudo apt-get install motion
         sudo apt-get install libcamera-v4l2
         sudo apt-get install libcamera-tools
-  - 
+  - cloudflare
+    - create policy
+    - create app
+      - choose tunnel domain
 
 - rpicam doc
   - https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
